@@ -1759,6 +1759,13 @@ trMA.Ode8C4T.melody = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.name
 trMA.Ode8C4T.incipit = "As a throne honoured and…"
 trMA.Ode8C4T.text = "As a throne honoured and most high, let us praise in ceaseless song the Mother of God, O ye peoples, for she alone is both a Mother and a Virgin after childbirth."
 
+trMA.Ode8C4H.ode = miscellanea_en_UK_ware.misc.Ode8
+trMA.Ode8C4H.mode = miscellanea_en_UK_ware.misc.Mode8
+trMA.Ode8C4H.greekmelody = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.greekname
+trMA.Ode8C4H.melody = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.melody
+trMA.Ode8C4H.incipit = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.incipit
+trMA.Ode8C4H.text = he.h.m8_en_UK_ware.heHE.TonAnarchonVasilea.text
+
 // Ode 8 Great Canon
 
 trMA.Ode8C1H.ode = miscellanea_en_UK_ware.misc.Ode8
