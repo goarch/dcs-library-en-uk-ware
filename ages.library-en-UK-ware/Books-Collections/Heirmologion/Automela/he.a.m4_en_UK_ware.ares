@@ -3,21 +3,21 @@ A_Resource_Whose_Name = he.a.m4_en_UK_ware
 heAU.title = ""
 
 heAU.DiaXylouOAdam.greekname = "Διὰ ξύλου ὁ Ἀδάμ."
-heAU.DiaXylouOAdam.melody = miscellanea_en_UK_ware.misc.Automelon
+heAU.DiaXylouOAdam.melody = "Automelon."
 heAU.DiaXylouOAdam.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.DiaXylouOAdam.name = "(NM)"
 heAU.DiaXylouOAdam.incipit = "…"
 heAU.DiaXylouOAdam.text = ""
 
 heAU.EdokasSimeiosin.greekname = "Ἔδωκας σημείωσιν."
-heAU.EdokasSimeiosin.melody = miscellanea_en_UK_ware.misc.Automelon
+heAU.EdokasSimeiosin.melody = "Automelon."
 heAU.EdokasSimeiosin.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.EdokasSimeiosin.name = "(NM)"
 heAU.EdokasSimeiosin.incipit = "…"
 heAU.EdokasSimeiosin.text = ""
 
 heAU.EpefanisSimeron.greekname = "Ἐπεφάνης σήμερον."
-heAU.EpefanisSimeron.melody = miscellanea_en_UK_ware.misc.Automelon
+heAU.EpefanisSimeron.melody = "Automelon."
 heAU.EpefanisSimeron.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.EpefanisSimeron.notmetered = "(NM) You revealed yourself today."
 heAU.EpefanisSimeron.name = "(NM)"
@@ -25,14 +25,14 @@ heAU.EpefanisSimeron.incipit = "…"
 heAU.EpefanisSimeron.text = "Thou hast appeared today to the inhabited earth, and Thy light, O Lord, has been marked upon us, who with knowledge sing Thy praise: Thou hast come, Thou art made manifest, the Light that no man can approach."
 
 heAU.IthelonDakrysinExaleipsai.greekname = "Ἤθελον δάκρυσιν ἐξαλεῖψαι."
-heAU.IthelonDakrysinExaleipsai.melody = miscellanea_en_UK_ware.misc.Automelon
+heAU.IthelonDakrysinExaleipsai.melody = "Automelon."
 heAU.IthelonDakrysinExaleipsai.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.IthelonDakrysinExaleipsai.name = ""
 heAU.IthelonDakrysinExaleipsai.incipit = "…"
 heAU.IthelonDakrysinExaleipsai.text = ""
 
 heAU.KateplagiIosif.greekname = "Κατεπλάγη Ἰωσήφ."
-heAU.KateplagiIosif.melody = miscellanea_en_UK_ware.misc.Automelon
+heAU.KateplagiIosif.melody = "Automelon."
 heAU.KateplagiIosif.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.KateplagiIosif.notmetered = "N/M (Joseph marveled.)"
 heAU.KateplagiIosif.name = "(N/M)"
@@ -40,14 +40,14 @@ heAU.KateplagiIosif.incipit = "…"
 heAU.KateplagiIosif.text = ""
 
 heAU.KyrieAnelthonEnToStavro.greekname = "Κύριε, ἀνελθὼν ἐν τῷ Σταυρῷ."
-heAU.KyrieAnelthonEnToStavro.melody = miscellanea_en_UK_ware.misc.Automelon
+heAU.KyrieAnelthonEnToStavro.melody = "Automelon."
 heAU.KyrieAnelthonEnToStavro.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.KyrieAnelthonEnToStavro.name = "(NM)"
 heAU.KyrieAnelthonEnToStavro.incipit = "…"
 heAU.KyrieAnelthonEnToStavro.text = ""
 
 heAU.OExYpsistouKlitheis.greekname = "Ὁ ἐξ ὑψίστου κληθείς."
-heAU.OExYpsistouKlitheis.melody = miscellanea_en_UK_ware.misc.Automelon
+heAU.OExYpsistouKlitheis.melody = "Automelon."
 heAU.OExYpsistouKlitheis.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.OExYpsistouKlitheis.notmetered = "(NM) When you were called."
 heAU.OExYpsistouKlitheis.name = "(NM)"
@@ -55,14 +55,14 @@ heAU.OExYpsistouKlitheis.incipit = "…"
 heAU.OExYpsistouKlitheis.text = ""
 
 heAU.OYpsotheisEnToStavro.greekname = "Ὁ ὑψωθεὶς ἐν τῷ Σταυρῷ."
-heAU.OYpsotheisEnToStavro.melody = miscellanea_en_UK_ware.misc.Automelon
+heAU.OYpsotheisEnToStavro.melody = "Automelon."
 heAU.OYpsotheisEnToStavro.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.OYpsotheisEnToStavro.name = "(N/M)"
 heAU.OYpsotheisEnToStavro.incipit = "…"
 heAU.OYpsotheisEnToStavro.text = ""
 
 heAU.OsGennaionEnMartysi.greekname = "Ὡς γενναῖον ἐν Μάρτυσι."
-heAU.OsGennaionEnMartysi.melody = miscellanea_en_UK_ware.misc.Automelon
+heAU.OsGennaionEnMartysi.melody = "Automelon."
 heAU.OsGennaionEnMartysi.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.OsGennaionEnMartysi.notmetered = "(N/M) As a brave one."
 heAU.OsGennaionEnMartysi.name = "(N/M)"
@@ -70,7 +70,7 @@ heAU.OsGennaionEnMartysi.incipit = "…"
 heAU.OsGennaionEnMartysi.text = ""
 
 heAU.TachyProkatalave.greekname = "Ταχὺ προκατάλαβε."
-heAU.TachyProkatalave.melody = miscellanea_en_UK_ware.misc.Automelon
+heAU.TachyProkatalave.melody = "Automelon."
 heAU.TachyProkatalave.mode = miscellanea_en_UK_ware.misc.Mode4
 heAU.TachyProkatalave.notmetered = "(NM) Come quickly."
 heAU.TachyProkatalave.name = "(NM)"
