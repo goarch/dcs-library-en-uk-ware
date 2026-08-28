@@ -579,7 +579,7 @@ trMA.AposMartyric.incipit = "Who is not filled with…"
 trMA.AposMartyric.text = "Who is not filled with wonder, holy martyrs, beholding the good fight ye have fought? Armed with the Cross and confessing Christ, while in the body ye have defeated the bodiless foe; ye have put to flight the demons and driven back the enemy. Intercede continually for the salvation of our souls."
 
 trMA.AposGlory.mode = miscellanea_en_UK_ware.misc.Mode8
-trMA.AposGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = tr.d043_en_UK_ware.trMA.AdditionalIdiomelon2.incipit
 trMA.AposGlory.text = tr.d043_en_UK_ware.trMA.AdditionalIdiomelon2.text
 

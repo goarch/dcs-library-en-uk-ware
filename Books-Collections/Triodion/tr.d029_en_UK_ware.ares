@@ -86,7 +86,7 @@ trVE.Stichera04.incipit = "…"
 trVE.Stichera04.text = ""
 
 trVE.SticGlory.mode = miscellanea_en_UK_ware.misc.Mode2
-trVE.SticGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "…"
 trVE.SticGlory.text = ""
 
@@ -101,7 +101,7 @@ trVE.LityBoth.incipit = "…"
 trVE.LityBoth.text = //ho.ho23_en_UK_ware.hoCA.Troparion7.text
 
 trVE.AposGlory.mode = miscellanea_en_UK_ware.misc.Mode2
-trVE.AposGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = "…"
 trVE.AposGlory.text = ""
 

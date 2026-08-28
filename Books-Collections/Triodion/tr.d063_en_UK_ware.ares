@@ -52,13 +52,13 @@ trVE.Stichera05.incipit = "…"
 trVE.Stichera05.text = ""
 
 trVE.SticGlory.mode = miscellanea_en_UK_ware.misc.Mode8
-trVE.SticGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "…"
 trVE.SticGlory.text = ""
 
 trVE.SticBoth.poet = poets_en_UK_ware.po.AndreouTyflou
 trVE.SticBoth.mode = miscellanea_en_UK_ware.misc.Mode8
-trVE.SticBoth.melody = miscellanea_en_UK_ware.misc.Idiomelon
+trVE.SticBoth.melody = ""
 trVE.SticBoth.incipit = "…"
 trVE.SticBoth.text = ""
 

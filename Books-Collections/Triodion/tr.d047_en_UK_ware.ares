@@ -49,7 +49,7 @@ trVE.Stichera03.incipit = "As we venerate today the…"
 trVE.Stichera03.text = "As we venerate today the Cross of the Lord, let us cry: Hail, Tree of Life, victor over hell; hail, joy of the world and slayer of corruption; hail, for by thy power thou scatterest the demons! Strong support of the faithful, weapon that cannot be broken, we pray thee, guard and sanctify those who show thee honour."
 
 trVE.SticGlory.mode = miscellanea_en_UK_ware.misc.Mode8
-trVE.SticGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d043_en_UK_ware.trMA.AdditionalIdiomelonGlory.incipit
 trVE.SticGlory.text = tr.d043_en_UK_ware.trMA.AdditionalIdiomelonGlory.text
 

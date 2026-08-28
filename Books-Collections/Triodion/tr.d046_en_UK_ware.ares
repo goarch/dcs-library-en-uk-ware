@@ -48,7 +48,7 @@ trVE.Stichera06.incipit = "Cleansing with tears the senses…"
 trVE.Stichera06.text = "Cleansing with tears the senses of our soul, making them pure through fasting, let us come and venerate the Wood of the Cross: for if we practice abstinence, it overthrows the rebellious and destructive impulses of our flesh. And let us cry to Him who was crucified: O Saviour, make us worthy to venerate the radiance of Thy rising on the third day."
 
 trVE.SticGlory.mode = miscellanea_en_UK_ware.misc.Mode8
-trVE.SticGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = tr.d043_en_UK_ware.trMA.AdditionalIdiomelon2.incipit
 trVE.SticGlory.text = tr.d043_en_UK_ware.trMA.AdditionalIdiomelon2.text
 
@@ -63,7 +63,7 @@ trVE.AposMartyric.incipit = "The prophets, the apostles of…"
 trVE.AposMartyric.text = "The prophets, the apostles of Christ and the martyrs have taught mankind to sing the praises of the consubstantial Trinity; they have given light to the nations that were gone astray, and they have made the sons of men companions of the angels."
 
 trVE.AposGlory.mode = miscellanea_en_UK_ware.misc.Mode5
-trVE.AposGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = tr.d043_en_UK_ware.trVE.LityGlory.incipit
 trVE.AposGlory.text = tr.d043_en_UK_ware.trVE.LityGlory.text
 
@@ -595,7 +595,7 @@ trMA.AposMartyric.incipit = "Invincible martyrs of Christ, ye…"
 trMA.AposMartyric.text = "Invincible martyrs of Christ, ye triumphed over falsehood by the power of the Cross, and gained as your reward the grace of life eternal. Ye felt no terror at the threats of tyrants, and when ye suffered torment ye rejoiced; and now your blood has become the healing of our souls. Intercede for our salvation."
 
 trMA.AposGlory.mode = miscellanea_en_UK_ware.misc.Mode8
-trMA.AposGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "Having reached the middle of…"
 trMA.AposGlory.text = "Having reached the middle of the sea of abstinence, let us look towards the haven of salvation, the season of Thy voluntary Passion, O Lord. In Thy lovingkindness and Thy mercy, grant us also to behold in peace the day of Thy glorious Resurrection."
 

@@ -79,7 +79,7 @@ trVE.Stichera04.incipit = "…"
 trVE.Stichera04.text = ""
 
 trVE.SticGlory.mode = miscellanea_en_UK_ware.misc.Mode3
-trVE.SticGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
+trVE.SticGlory.melody = ""
 trVE.SticGlory.incipit = "…"
 trVE.SticGlory.text = ""
 
@@ -89,7 +89,7 @@ trVE.LityGlory.incipit = "Beholding Thee, the Fashioner and…"
 trVE.LityGlory.text = "Beholding Thee, the Fashioner and Creator of all, hanging naked on the Cross, the whole creation was transformed by fear and it lamented; the light of the sun grew dark and the earth quaked; the rocks were shattered and the splendour of the temple was rent in twain; the dead rose from their tombs and the angelic powers cried in amazement: ‘O strange wonder! The Judge is judged and suffers willingly, for the salvation and renewal of the world.’"
 
 trVE.AposGlory.mode = miscellanea_en_UK_ware.misc.Mode4
-trVE.AposGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
+trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = "…"
 trVE.AposGlory.text = //me.m08.d01_en_UK_ware.meMA.LaudsBoth.text
 

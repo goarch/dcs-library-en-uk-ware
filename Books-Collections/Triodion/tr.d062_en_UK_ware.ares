@@ -277,7 +277,7 @@ trMA.AposMartyric.incipit = "Come, all ye peoples, and…"
 trMA.AposMartyric.text = "Come, all ye peoples, and with hymns and spiritual songs let us honour the victorious martyrs of Christ. They are lights to the world and preachers of the faith, and an everlasting fountain that flows with healing for the faithful. At their prayers grant peace to Thy world, O Christ our God, and to our souls great mercy."
 
 trMA.AposGlory.mode = miscellanea_en_UK_ware.misc.Mode8
-trMA.AposGlory.melody = miscellanea_en_UK_ware.misc.Idiomelon
+trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = "Having completed the forty days…"
 trMA.AposGlory.text = "Having completed the forty days that bring profit to our soul, we beseech Thee in Thy love for man: Grant us also to behold the Holy Week of Thy Passion, that in it we may glorify Thy mighty acts and Thine ineffable dispensation for our sakes, singing with one mind: O Lord, glory to Thee."
 
